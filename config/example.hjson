@@ -1,0 +1,5 @@
+{
+  host: your-host
+  user: username-at-the-host
+  wtpsThreshold: 10
+}
